@@ -1,6 +1,6 @@
 # Pathfinding in JS
 This is a project that tried to analyse the main pathfinding algorithms that are used.
-In the picture below you can see the interface we used to test the different algorithms.
+In the picture below you can see the interface we used to test the different algorithms. The link to the website is [here](http://www.kylecjohnson.site/pathfinding/)
 
 There are a bunch of buttons below the canvas we used as well as some output windows to the right.
 The most important buttons are "Randomize Map and Position" (Beneath "Automatic Map Editing" at the bottom) and the algorithm buttons "DFS, BFS, Dijkstra, A*" (in a cluster to the right of that).
